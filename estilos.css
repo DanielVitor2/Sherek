@@ -1,0 +1,32 @@
+body {
+    background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSz9vtNHh5EjyY_gGIoAa5goZZZJwOhKBGUOw&s');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    flex-direction: column;
+}
+* {
+    font-family: "Bungee Spice", serif;
+  }
+p {
+  color:rgb(1, 129, 7)
+}
+h2 {
+  color:rgb(1, 129, 7)
+}
+table {
+    border-collapse: collapse;
+    background-color: greenyellow;
+}
+th {
+    background-color: greenyellow;
+}
+
+th,
+td {
+    border: 1px solid red;
+    text-align: left;
+    padding: 8px;
+}
